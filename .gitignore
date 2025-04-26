@@ -1,0 +1,16 @@
+# Django
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+db.sqlite3
+
+# Node
+node_modules/
+.env
+
+# Vite
+dist/
